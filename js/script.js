@@ -7,3 +7,8 @@ const loadPhone = async () => {
   console.log(phone);
 };
 loadPhone();
+
+
+
+
+/* another thing is cooking so this will be in the next day In Sha Allah */
